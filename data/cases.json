@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "type": "Reclamo",
+    "description": "Lavadora defectuosa",
+    "status": "Pendiente"
+  }
+]
